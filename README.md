@@ -3,8 +3,8 @@ A collection of scientific papers and other documents about my research activity
 
 ## Map
 
-Please, take a look at the file [MAP](MAP.md) to explore the content of this repository.
+Please, take a look at [this file](MAP.md) to explore the content of this repository.
 
 ## Disclaimer
 
-Please, carefully read the file [DISCLAIMER](DISCLAIMER.md) before exploring the content of this repository. The file contains indications about the status and copyrights of the content of this repository. For the time being, this files acts as a naive license.
+Please, carefully read [this file](DISCLAIMER.md) before exploring the content of this repository. The file contains indications about the status and copyrights of the content of this repository. For the time being, this files acts as a naive license.
