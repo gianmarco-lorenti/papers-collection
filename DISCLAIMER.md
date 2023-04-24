@@ -27,7 +27,7 @@ Please, use the following citation:
 ## Unpublished research papers and documents
 
 The following files are unpublished research papers and other documents. Please notice that the content of these files has not been (or has only been partially) thoroughly and formally peer-reviewed. Therefore, the author assumes no responsability or liability for any errors or omissions in the content of these papers. The information contained in these papers is provided on an "as is" basis with no guarantees of completeness, accuracy, usefulness or timeliness. Moreover, these papers may contain opinions and points of view of the author.
-These files are distributed under CC-BY license, hence permission is given to to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the author.
+These files are distributed under **CC-BY license**, hence permission is given to to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the author.
 
 ### Risultati preliminari dell’analisi delle performance della CER di Cantalupa
 The file [Cantalupa2021](2021__lorenti__et_al__preliminary_results_of_the_performance_analysis_of_the_rec_in_cantalupa.pdf) contains a technical report about an unformal collaboration with the municipality of Cantalupa (TO) conducted from September to December 2021.
@@ -47,7 +47,7 @@ Please, use the following citation:
 ## Presentations
 These files are collections of slides that were presented in different occasions, ranging from international conferences, to summer school, etc.
 The content of these files may have been partially peer-reviewed (when related to published papers) or not.
-These files are distributed under CC-BY license, hence permission is given to to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the author.
+These files are distributed under **CC-BY license**, hence permission is given to to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the author.
 
 ### PhD Research activity
 The file [Lorenti2023](2023__lorenti__phd_research_activity.pdf) contains a collection of slides presented during a visit at Laplace Research Lab at INP Toulouse - ENSEEIHT.
